@@ -1,0 +1,7 @@
+{
+  "email":"admin-dev@nwtoht.ca",
+  "password":"password",
+  "alertMsg":"Template updated - existing revision updated",
+  "alertMsg2":"Template updated - NEW REVISION CREATED",
+  "deleteConfirm":"Removed form assignment and updated template"
+}

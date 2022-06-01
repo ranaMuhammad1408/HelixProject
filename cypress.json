@@ -1,0 +1,7 @@
+{
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 120000,
+    "requestTimeout": 120000,
+    "pageLoadTimeout": 120000,
+    "integrationFolder": "cypress/test"
+}

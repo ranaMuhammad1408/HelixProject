@@ -1,0 +1,21 @@
+{
+    "deleteCarePlan":{
+        "signInBtn":".MuiButton-root",
+        "signInWithPasswordBtn":"button[data-test='button-sign-in-email-and-password']",
+        "email":"input[name='email']",
+        "password":"input[name='password']",
+        "submitBtn":"button[data-test='button-sign-in']",
+        "carePlanTemplateBtn":"button[data-test='button-careplan-templates']",
+        "templateBtn":"td[data-testid='MuiDataTableBodyCell-0-0']",
+        "statusDropDownBtn":"#mui-component-select-status",
+        "statusBtn":"li[data-value='IN_REVIEW']",
+        "updateBtn":".MuiButton-root",
+        "alertMsg":"div.MuiAlert-message",
+        "formBtn":"button[data-test='new-careplan-template-forms-tab']",
+        "deleteBtn":"svg[data-testid='DeleteIcon']",
+        "okBtn":"div.MuiGrid-root .MuiButton-root",
+        "deleteConfrim":"div.MuiAlert-message",
+        "overViewBtn":"button[data-test='new-careplan-template-overview-tab']"
+
+    }
+}
